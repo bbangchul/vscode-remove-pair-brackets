@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [{
+    "name": "Test Remove Pair Brackets", "type": "extensionHost", "request": "launch",
+    "args": ["--extensionDevelopmentPath=${workspaceFolder}"]
+  }]
+}
